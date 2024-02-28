@@ -14,7 +14,7 @@ pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
 ```
-##SetUp Frontend
+## **SetUp Frontend**
 ### On Frontend directory 
 ```
 npm install
